@@ -20,7 +20,7 @@ gitignore==0.0.8
 gunicorn==20.0.4
 idna==2.8
 oauthlib==3.1.0
-Pillow==8.0.1
+Pillow==8.3.2
 psycopg2==2.8.6
 PyJWT==1.7.1
 python3-openid==3.1.0
